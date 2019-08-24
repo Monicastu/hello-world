@@ -1,6 +1,6 @@
 # hello-world
-A new repository
 
-Hello,world!I am learning how to use github.
-It is a little difficult at first,but I believe I can learn it well soon.
-Best wishes!
+I am Monica.I am 19 now.
+I am from Henan.
+I love my family.
+I love my major.
